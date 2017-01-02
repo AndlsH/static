@@ -1,0 +1,116 @@
+[Adblock Plus 2.0]
+! Version: 20161024
+! Title: Custom
+! Last modified: 2016-10-24
+! Expires: 4 days
+!================ Whitelist ================
+!==== $docunment not supported in ublock ====
+@@||192.168.1.253/$document
+@@||weibo.com/$document
+@@||andls.com/$document
+@@||andls.com
+@@||github.com/$document
+@@||ibigtui.com/$document
+@@||wx2.qq.com/$document
+@@||workflowy.com/$document
+!================ Money ================
+@@||jd.com/$document
+@@||vip.com/$document
+@@||taobao.com/$document
+@@||tmall.com/$document
+@@||amazon.cn/$document
+@@||amazon.com/$document
+!================ Google ================
+@@||google.com/calendar/$document
+@@||translate.google.com/$document
+@@||keep.google.com/$document
+@@||play.google.com/$document
+@@||scholar.google.com/$document
+!================ 交通大学 ================
+@@||swjtu.edu.cn/$document
+@@||202.115.67.50/$document
+@@||202.115.72.102/$document
+@@||yanghua.net/$document
+!================ Blocklist ================
+!================ runtastic ================
+www.runtastic.com##NAV[class="slide header-navigation "]
+www.runtastic.com##DIV[class="content-box content-box--notification user_notification box adblocker_main adblocker_fair"]
+www.runtastic.com##DIV[class="sidebar-group sidebar-group--last ad-2-col-side order-box--mobile__container is-third"]
+www.runtastic.com##DIV[class="footer page-footer"]
+www.runtastic.com##DIV[id="ember2341"]
+www.runtastic.com##[href="/en/premium-membership"]
+www.runtastic.com##[href="https://www.runtastic.com/en/premium-membership"]
+!================ 腾讯 NBA ================
+sports.qq.com##DIV[class="area area-titlesponsor"]
+sports.qq.com##DIV[class="area area-focus"]
+sports.qq.com##DIV[id="navZB"]
+sports.qq.com##IMG[src="http://mat1.gtimg.com/sports/nba/logo/erweima.png"]
+!================ 新浪首页 ================
+www.sina.com.cn##DIV[class="main-nav"]
+www.sina.com.cn##DIV[class="top-ads"]
+www.sina.com.cn##DIV[id="radius_out"][class="red-tips"]
+www.sina.com.cn##A[class="hxjzg"]
+www.sina.com.cn##DIV[class="nwsu-item"]
+www.sina.com.cn##DIV[class="blank-cont"]
+www.sina.com.cn##DIV[class="part-a-l"]
+www.sina.com.cn##DIV[class="part-b-l"]
+www.sina.com.cn##DIV[class="nmod01"]
+www.sina.com.cn##DIV[class="part-b-r"]
+www.sina.com.cn##SPAN[id="SI_IP_Part_1"]
+www.sina.com.cn##DIV[class="part-c"]
+www.sina.com.cn##DIV[class="part-d clearfix"]
+www.sina.com.cn##DIV[class="part-e uni-blk"]
+www.sina.com.cn##DIV[class="part-g clearfix"]
+www.sina.com.cn##SPAN[id="SI_IP_Part_2"]
+www.sina.com.cn##DIV[class="part-i"]
+www.sina.com.cn##DIV[class="part-h clearfix"]
+www.sina.com.cn##DIV[class="part-j clearfix"]
+www.sina.com.cn##DIV[class="npart-a"]
+www.sina.com.cn##DIV[class="part-k clearfix"]
+www.sina.com.cn##DIV[class="part-l clearfix"]
+www.sina.com.cn##DIV[class="part-m"]
+www.sina.com.cn##DIV[class="part-n clearfix"]
+www.sina.com.cn##DIV[class="part-o"]
+www.sina.com.cn##DIV[class="part-p"]
+www.sina.com.cn##DIV[class="part-q clearfix"]
+www.sina.com.cn##DIV[class="part-r clearfix"]
+www.sina.com.cn##DIV[class="part-s clearfix"]
+www.sina.com.cn##DIV[class="part-t uni-blk"]
+www.sina.com.cn##DIV[class="part-t video-slider uni-blk"]
+www.sina.com.cn##DIV[class="city-union"]
+www.sina.com.cn##DIV[class="part-t"]
+www.sina.com.cn##DIV[class="footer"]
+!================ 新浪 NBA ================
+sports.sina.com.cn##INS[class="anta-logo"]
+sports.sina.com.cn##DIV[class="ad0"]
+sports.sina.com.cn##DIV[id="clearPc"][class="clearAd"]
+sports.sina.com.cn##DIV[id="clearIpad"][class="clearAd"]
+sports.sina.com.cn##DIV[class="part2 clearfix"]
+sports.sina.com.cn##DIV[class="part3 clearfix"]
+sports.sina.com.cn##DIV[id="bot_rf"][class="team"]
+sports.sina.com.cn##DIV[class="footer simsun"]
+sports.sina.com.cn##DIV[class="side-btns-2wm"]
+sports.sina.com.cn##.z-border
+sports.sina.com.cn##.side-btns-2wm.side-btns-2wm-resize
+sports.sina.com.cn##DIV[id="J_Comment_Form_B"][class="post_box post_box_top post_box_showall "]
+!================ 新浪邮箱 ================
+m0.mail.sina.com.cn##DIV[class="connMod"]
+!================ cnBeta ================
+www.cnbeta.com##HEADER[class="wrapper global_head"]
+www.cnbeta.com##DIV[class="slide"]
+www.cnbeta.com##DIV[class="wdj_box"]
+www.cnbeta.com##DIV[class="navi"]
+www.cnbeta.com##div[style*="z-index:99999"]
+!================ QQ 空间 ================
+user.qzone.qq.com##DIV[class="col-main-sidebar"]
+user.qzone.qq.com##DIV[class="mod-side-nav mod-side-nav-recently-used"]
+user.qzone.qq.com##LI[class="f-single feed-hot"]
+!================ 威锋网 ================
+bbs.feng.com##DIV[class="wrap"]
+bbs.feng.com##DIV[class="inner"]
+bbs.feng.com##DIV[id="bbs_top_news"][class="wrap top_news top_news"]
+!================ new ================
+zdfans.com###live
+www.nruan.com##DIV[id="metro"]
+www.nruan.com##DIV[id="post-1"]
+itunes.apple.com##DIV[id="itunes-detector"]
