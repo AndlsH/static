@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 20161024
 ! Title: Custom
-! Last modified: 2016-10-24
+! Last modified: 2017-01-24
 ! Expires: 4 days
 !================ Whitelist ================
 !==== $docunment not supported in ublock ====
@@ -114,3 +114,5 @@ zdfans.com###live
 www.nruan.com##DIV[id="metro"]
 www.nruan.com##DIV[id="post-1"]
 itunes.apple.com##DIV[id="itunes-detector"]
+DIV[class="player-ads-bottom"]
+DIV[class="player-ads"]
