@@ -114,5 +114,5 @@ zdfans.com###live
 www.nruan.com##DIV[id="metro"]
 www.nruan.com##DIV[id="post-1"]
 itunes.apple.com##DIV[id="itunes-detector"]
-DIV[class="player-ads-bottom"]
-DIV[class="player-ads"]
+##DIV[class="player-ads-bottom"]
+##DIV[class="player-ads"]
