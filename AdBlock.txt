@@ -1,7 +1,7 @@
-[Adblock Plus 2.0]
-! Version: 20170222
+﻿[Adblock Plus 2.0]
+! Version: 20170223
 ! Title: Custom
-! Last modified: 2017-02-22
+! Last modified: 2017-02-23
 ! Expires: 14 days
 !================ Whitelist ================
 !==== $docunment not supported in ublock ====
@@ -96,12 +96,12 @@ sports.sina.com.cn##DIV[id="J_Comment_Form_B"][class="post_box post_box_top post
 !================ 新浪邮箱 ================
 m0.mail.sina.com.cn##DIV[class="connMod"]
 !================ cnBeta ================
-www.cnbeta.com##div[style*="z-index:99999"]
-www.cnbeta.com##DIV[class="topContent"]
-www.cnbeta.com##DIV[class="cnbeta-headlines"]
-www.cnbeta.com##DIV[class="cnbeta-article-latest"]
-www.cnbeta.com##DIV[class="article-relation"]
-www.cnbeta.com##DIV[class="article-global"]
+cnbeta.com##div[style*="z-index:99999"]
+cnbeta.com##DIV[class="topContent"]
+cnbeta.com##DIV[class="cnbeta-headlines"]
+cnbeta.com##DIV[class="cnbeta-article-latest"]
+cnbeta.com##DIV[class="article-relation"]
+cnbeta.com##DIV[class="article-global"]
 !================ QQ 空间 ================
 user.qzone.qq.com##DIV[class="col-main-sidebar"]
 user.qzone.qq.com##DIV[class="mod-side-nav mod-side-nav-recently-used"]
