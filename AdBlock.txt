@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20170124
+! Version: 20170222
 ! Title: Custom
-! Last modified: 2017-01-24
-! Expires: 4 days
+! Last modified: 2017-02-22
+! Expires: 14 days
 !================ Whitelist ================
 !==== $docunment not supported in ublock ====
 @@||192.168.1.253/$document
