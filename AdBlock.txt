@@ -96,11 +96,12 @@ sports.sina.com.cn##DIV[id="J_Comment_Form_B"][class="post_box post_box_top post
 !================ 新浪邮箱 ================
 m0.mail.sina.com.cn##DIV[class="connMod"]
 !================ cnBeta ================
-www.cnbeta.com##HEADER[class="wrapper global_head"]
-www.cnbeta.com##DIV[class="slide"]
-www.cnbeta.com##DIV[class="wdj_box"]
-www.cnbeta.com##DIV[class="navi"]
 www.cnbeta.com##div[style*="z-index:99999"]
+www.cnbeta.com##DIV[class="topContent"]
+www.cnbeta.com##DIV[class="cnbeta-headlines"]
+www.cnbeta.com##DIV[class="cnbeta-article-latest"]
+www.cnbeta.com##DIV[class="article-relation"]
+www.cnbeta.com##DIV[class="article-global"]
 !================ QQ 空间 ================
 user.qzone.qq.com##DIV[class="col-main-sidebar"]
 user.qzone.qq.com##DIV[class="mod-side-nav mod-side-nav-recently-used"]
